@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... --->
-- 🌱 I’m currently learning Java and Lua
+- 🌱 I’m currently learning C++ and Verilog
 
 - 👯 I’m looking to collaborate on Free and Open Source Software
 
