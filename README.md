@@ -7,12 +7,12 @@ Here are some ideas to get you started: --->
 
 - 🔭 I’m currently working on ... nothing :(
 
-- 🌱 I’m currently learning C++ and Assembly(GNU Assembler)
+- 🌱 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate on Free and Open Source Software
 
-- 🤔 I’m looking for help with getting started with contributing to open source software
- 
+- 🤔 I’m looking for help with ... nothing (currently)
+  
 - 📫 How to reach me: giaplesnikolaos@gmail.com
 
 - 😄 Pronouns: He/Him
