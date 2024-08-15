@@ -5,13 +5,15 @@
 
 Here are some ideas to get you started: --->
 
-- 🔭 I’m currently working on ... nothing :(
+- 🔭 I’m currently working on ... getting through university
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Rust
 
+<!--
 - 👯 I’m looking to collaborate on Free and Open Source Software
 
 - 🤔 I’m looking for help with ... nothing (currently)
+-->
   
 - 📫 How to reach me: giaplesnikolaos@gmail.com
 
